@@ -1,0 +1,1079 @@
+DIV_NUM,DIV_NAME,FEDERAL_RACE_CODE,GENDER,DISABILITY_FLAG,LEP_FLAG,DISADVANTAGED_FLAG,COHORT_GRADUATE_CNT,PS_ENROLLMENT_CNT,PS_ENROLLMENT_RATE
+1,Accomack County ,3,F,N,N,Y,41,28,0.682926829
+1,Accomack County ,5,F,N,N,N,44,30,0.681818182
+1,Accomack County ,5,F,N,N,Y,31,19,0.612903226
+1,Accomack County ,3,M,N,N,N,12,5,0.416666667
+1,Accomack County ,3,M,N,N,Y,45,20,0.444444444
+1,Accomack County ,4,M,N,Y,Y,18,7,0.388888889
+1,Accomack County ,5,M,N,N,N,69,35,0.507246377
+1,Accomack County ,5,M,N,N,Y,18,6,0.333333333
+2,Albemarle County ,2,F,N,N,N,15,10,0.666666667
+2,Albemarle County ,3,F,N,N,N,28,23,0.821428571
+2,Albemarle County ,3,F,N,N,Y,22,9,0.409090909
+2,Albemarle County ,4,F,N,N,N,17,11,0.647058824
+2,Albemarle County ,4,F,N,Y,Y,10,2,0.2
+2,Albemarle County ,5,F,N,N,N,303,258,0.851485149
+2,Albemarle County ,5,F,N,N,Y,27,17,0.62962963
+2,Albemarle County ,5,F,Y,N,N,13,12,0.923076923
+2,Albemarle County ,99,F,N,N,N,14,14,1
+2,Albemarle County ,2,M,N,N,N,10,9,0.9
+2,Albemarle County ,3,M,N,N,N,24,18,0.75
+2,Albemarle County ,3,M,N,N,Y,18,8,0.444444444
+2,Albemarle County ,4,M,N,N,N,13,10,0.769230769
+2,Albemarle County ,4,M,N,Y,Y,13,5,0.384615385
+2,Albemarle County ,5,M,N,N,N,295,239,0.810169492
+2,Albemarle County ,5,M,N,N,Y,19,4,0.210526316
+2,Albemarle County ,5,M,Y,N,N,29,15,0.517241379
+2,Albemarle County ,99,M,N,N,N,11,9,0.818181818
+3,Alleghany County ,5,F,N,N,N,59,48,0.813559322
+3,Alleghany County ,5,F,N,N,Y,23,15,0.652173913
+3,Alleghany County ,5,M,N,N,N,45,26,0.577777778
+3,Alleghany County ,5,M,N,N,Y,29,13,0.448275862
+4,Amelia County ,5,F,N,N,N,31,23,0.741935484
+4,Amelia County ,5,F,N,N,Y,18,12,0.666666667
+4,Amelia County ,3,M,N,N,N,10,4,0.4
+4,Amelia County ,5,M,N,N,N,33,17,0.515151515
+4,Amelia County ,5,M,N,N,Y,16,4,0.25
+5,Amherst County ,3,F,N,N,N,25,16,0.64
+5,Amherst County ,5,F,N,N,N,75,47,0.626666667
+5,Amherst County ,5,F,N,N,Y,19,12,0.631578947
+5,Amherst County ,3,M,N,N,N,12,6,0.5
+5,Amherst County ,3,M,N,N,Y,14,9,0.642857143
+5,Amherst County ,5,M,N,N,N,76,38,0.5
+5,Amherst County ,5,M,N,N,Y,20,6,0.3
+5,Amherst County ,5,M,Y,N,N,10,2,0.2
+6,Appomattox County ,3,F,N,N,Y,15,6,0.4
+6,Appomattox County ,5,F,N,N,N,33,26,0.787878788
+6,Appomattox County ,5,F,N,N,Y,18,10,0.555555556
+6,Appomattox County ,5,M,N,N,N,31,18,0.580645161
+6,Appomattox County ,5,M,N,N,Y,10,3,0.3
+7,Arlington County ,2,F,N,N,N,27,27,1
+7,Arlington County ,2,F,N,Y,Y,13,9,0.692307692
+7,Arlington County ,3,F,N,N,N,35,26,0.742857143
+7,Arlington County ,3,F,N,N,Y,30,27,0.9
+7,Arlington County ,3,F,N,Y,Y,12,7,0.583333333
+7,Arlington County ,4,F,N,N,N,47,41,0.872340426
+7,Arlington County ,4,F,N,Y,N,24,13,0.541666667
+7,Arlington County ,4,F,N,N,Y,31,28,0.903225806
+7,Arlington County ,4,F,N,Y,Y,58,37,0.637931034
+7,Arlington County ,5,F,N,N,N,258,226,0.875968992
+7,Arlington County ,5,F,Y,N,N,15,13,0.866666667
+7,Arlington County ,99,F,N,N,N,23,16,0.695652174
+7,Arlington County ,2,M,N,N,N,26,24,0.923076923
+7,Arlington County ,2,M,N,Y,N,13,8,0.615384615
+7,Arlington County ,2,M,N,Y,Y,20,13,0.65
+7,Arlington County ,3,M,N,N,N,38,28,0.736842105
+7,Arlington County ,3,M,N,N,Y,20,16,0.8
+7,Arlington County ,3,M,N,Y,Y,13,10,0.769230769
+7,Arlington County ,3,M,Y,N,N,10,7,0.7
+7,Arlington County ,4,M,N,N,N,40,31,0.775
+7,Arlington County ,4,M,N,Y,N,30,16,0.533333333
+7,Arlington County ,4,M,N,N,Y,21,18,0.857142857
+7,Arlington County ,4,M,N,Y,Y,57,32,0.561403509
+7,Arlington County ,4,M,Y,Y,Y,11,6,0.545454545
+7,Arlington County ,5,M,N,N,N,263,226,0.859315589
+7,Arlington County ,5,M,Y,N,N,45,32,0.711111111
+7,Arlington County ,99,M,N,N,N,20,16,0.8
+8,Augusta County ,5,F,N,N,N,264,199,0.753787879
+8,Augusta County ,5,F,N,N,Y,68,31,0.455882353
+8,Augusta County ,5,M,N,N,N,273,142,0.52014652
+8,Augusta County ,5,M,N,N,Y,64,18,0.28125
+9,Bath County ,5,F,N,N,N,10,9,0.9
+9,Bath County ,5,M,N,N,N,20,15,0.75
+10,Bedford County ,3,F,N,N,N,17,12,0.705882353
+10,Bedford County ,3,F,N,N,Y,11,3,0.272727273
+10,Bedford County ,5,F,N,N,N,261,190,0.727969349
+10,Bedford County ,5,F,N,N,Y,85,42,0.494117647
+10,Bedford County ,3,M,N,N,N,16,12,0.75
+10,Bedford County ,5,M,N,N,N,256,164,0.640625
+10,Bedford County ,5,M,N,N,Y,58,18,0.310344828
+10,Bedford County ,5,M,Y,N,N,12,2,0.166666667
+11,Bland County ,5,F,N,N,N,24,22,0.916666667
+11,Bland County ,5,M,N,N,N,16,10,0.625
+12,Botetourt County ,5,F,N,N,N,144,123,0.854166667
+12,Botetourt County ,5,F,N,N,Y,27,11,0.407407407
+12,Botetourt County ,5,M,N,N,N,140,101,0.721428571
+12,Botetourt County ,5,M,N,N,Y,22,6,0.272727273
+12,Botetourt County ,5,M,Y,N,N,16,6,0.375
+13,Brunswick County ,3,F,N,N,N,30,21,0.7
+13,Brunswick County ,3,F,N,N,Y,26,12,0.461538462
+13,Brunswick County ,3,M,N,N,N,26,14,0.538461538
+13,Brunswick County ,5,M,N,N,N,11,2,0.181818182
+14,Buchanan County ,5,F,N,N,N,30,23,0.766666667
+14,Buchanan County ,5,F,N,N,Y,59,39,0.661016949
+14,Buchanan County ,5,M,N,N,N,38,28,0.736842105
+14,Buchanan County ,5,M,N,N,Y,53,29,0.547169811
+15,Buckingham County ,3,F,N,N,Y,15,8,0.533333333
+15,Buckingham County ,5,F,N,N,N,23,17,0.739130435
+15,Buckingham County ,5,F,N,N,Y,12,6,0.5
+15,Buckingham County ,3,M,N,N,Y,10,4,0.4
+15,Buckingham County ,5,M,N,N,N,27,10,0.37037037
+15,Buckingham County ,5,M,N,N,Y,12,6,0.5
+16,Campbell County ,3,F,N,N,N,17,11,0.647058824
+16,Campbell County ,3,F,N,N,Y,27,12,0.444444444
+16,Campbell County ,5,F,N,N,N,168,116,0.69047619
+16,Campbell County ,5,F,N,N,Y,52,28,0.538461538
+16,Campbell County ,3,M,N,N,N,22,16,0.727272727
+16,Campbell County ,3,M,N,N,Y,24,12,0.5
+16,Campbell County ,5,M,N,N,N,153,111,0.725490196
+16,Campbell County ,5,M,N,N,Y,37,18,0.486486486
+16,Campbell County ,5,M,Y,N,N,17,3,0.176470588
+16,Campbell County ,5,M,Y,N,Y,10,1,0.1
+17,Caroline County ,3,F,N,N,N,22,17,0.772727273
+17,Caroline County ,3,F,N,N,Y,23,15,0.652173913
+17,Caroline County ,5,F,N,N,N,34,22,0.647058824
+17,Caroline County ,5,F,N,N,Y,41,21,0.512195122
+17,Caroline County ,3,M,N,N,N,19,8,0.421052632
+17,Caroline County ,3,M,N,N,Y,13,6,0.461538462
+17,Caroline County ,5,M,N,N,N,27,9,0.333333333
+17,Caroline County ,5,M,N,N,Y,25,12,0.48
+18,Carroll County ,5,F,N,N,N,68,47,0.691176471
+18,Carroll County ,5,F,N,N,Y,37,21,0.567567568
+18,Carroll County ,5,M,N,N,N,68,43,0.632352941
+18,Carroll County ,5,M,N,N,Y,45,17,0.377777778
+18,Carroll County ,5,M,Y,N,Y,12,2,0.166666667
+19,Charles City County ,3,M,N,N,Y,11,5,0.454545455
+20,Charlotte County ,3,F,N,N,Y,14,9,0.642857143
+20,Charlotte County ,5,F,N,N,N,24,24,1
+20,Charlotte County ,5,F,N,N,Y,13,11,0.846153846
+20,Charlotte County ,5,M,N,N,N,32,14,0.4375
+21,Chesterfield County ,2,F,N,N,N,63,54,0.857142857
+21,Chesterfield County ,3,F,N,N,N,424,327,0.771226415
+21,Chesterfield County ,3,F,N,N,Y,168,113,0.672619048
+21,Chesterfield County ,3,F,Y,N,N,12,4,0.333333333
+21,Chesterfield County ,4,F,N,N,N,116,88,0.75862069
+21,Chesterfield County ,4,F,N,Y,N,25,8,0.32
+21,Chesterfield County ,4,F,N,N,Y,35,17,0.485714286
+21,Chesterfield County ,4,F,N,Y,Y,32,12,0.375
+21,Chesterfield County ,5,F,N,N,N,1020,834,0.817647059
+21,Chesterfield County ,5,F,N,N,Y,96,56,0.583333333
+21,Chesterfield County ,5,F,Y,N,N,37,21,0.567567568
+21,Chesterfield County ,99,F,N,N,N,68,50,0.735294118
+21,Chesterfield County ,99,F,N,N,Y,19,14,0.736842105
+21,Chesterfield County ,2,M,N,N,N,50,47,0.94
+21,Chesterfield County ,3,M,N,N,N,378,257,0.67989418
+21,Chesterfield County ,3,M,N,N,Y,145,73,0.503448276
+21,Chesterfield County ,3,M,Y,N,N,39,18,0.461538462
+21,Chesterfield County ,3,M,Y,N,Y,26,7,0.269230769
+21,Chesterfield County ,4,M,N,N,N,84,47,0.55952381
+21,Chesterfield County ,4,M,N,Y,N,39,12,0.307692308
+21,Chesterfield County ,4,M,N,N,Y,37,17,0.459459459
+21,Chesterfield County ,4,M,N,Y,Y,31,10,0.322580645
+21,Chesterfield County ,5,M,N,N,N,974,704,0.722792608
+21,Chesterfield County ,5,M,N,N,Y,83,33,0.397590361
+21,Chesterfield County ,5,M,Y,N,N,80,39,0.4875
+21,Chesterfield County ,5,M,Y,N,Y,11,1,0.090909091
+21,Chesterfield County ,99,M,N,N,N,44,35,0.795454545
+21,Chesterfield County ,99,M,N,N,Y,10,3,0.3
+22,Clarke County ,5,F,N,N,N,60,47,0.783333333
+22,Clarke County ,5,M,N,N,N,81,51,0.62962963
+23,Craig County ,5,F,N,N,N,12,9,0.75
+23,Craig County ,5,F,N,N,Y,12,11,0.916666667
+24,Culpeper County ,3,F,N,N,N,21,14,0.666666667
+24,Culpeper County ,3,F,N,N,Y,22,9,0.409090909
+24,Culpeper County ,4,F,N,N,N,12,8,0.666666667
+24,Culpeper County ,4,F,N,N,Y,13,3,0.230769231
+24,Culpeper County ,5,F,N,N,N,137,102,0.744525547
+24,Culpeper County ,5,F,N,N,Y,37,19,0.513513514
+24,Culpeper County ,3,M,N,N,N,21,16,0.761904762
+24,Culpeper County ,3,M,N,N,Y,13,6,0.461538462
+24,Culpeper County ,4,M,N,N,Y,15,8,0.533333333
+24,Culpeper County ,5,M,N,N,N,133,67,0.503759398
+24,Culpeper County ,5,M,N,N,Y,25,8,0.32
+25,Cumberland County ,5,F,N,N,N,13,11,0.846153846
+25,Cumberland County ,5,F,N,N,Y,14,7,0.5
+25,Cumberland County ,3,M,N,N,Y,11,4,0.363636364
+25,Cumberland County ,5,M,N,N,N,12,9,0.75
+25,Cumberland County ,5,M,N,N,Y,10,4,0.4
+26,Dickenson County ,5,F,N,N,N,47,32,0.680851064
+26,Dickenson County ,5,F,N,N,Y,49,22,0.448979592
+26,Dickenson County ,5,M,N,N,N,34,22,0.647058824
+26,Dickenson County ,5,M,N,N,Y,25,11,0.44
+27,Dinwiddie County ,3,F,N,N,N,21,20,0.952380952
+27,Dinwiddie County ,3,F,N,N,Y,42,32,0.761904762
+27,Dinwiddie County ,5,F,N,N,N,46,35,0.760869565
+27,Dinwiddie County ,5,F,N,N,Y,19,12,0.631578947
+27,Dinwiddie County ,3,M,N,N,N,20,14,0.7
+27,Dinwiddie County ,3,M,N,N,Y,21,9,0.428571429
+27,Dinwiddie County ,5,M,N,N,N,53,32,0.603773585
+27,Dinwiddie County ,5,M,N,N,Y,19,4,0.210526316
+28,Essex County ,3,F,N,N,Y,20,11,0.55
+28,Essex County ,5,F,N,N,N,18,15,0.833333333
+28,Essex County ,3,M,N,N,Y,16,5,0.3125
+28,Essex County ,5,M,N,N,N,17,11,0.647058824
+29,Fairfax County ,1,F,N,N,N,11,9,0.818181818
+29,Fairfax County ,2,F,N,N,N,839,752,0.896305125
+29,Fairfax County ,2,F,N,Y,N,118,88,0.745762712
+29,Fairfax County ,2,F,N,N,Y,188,172,0.914893617
+29,Fairfax County ,2,F,N,Y,Y,124,90,0.725806452
+29,Fairfax County ,2,F,Y,N,N,13,11,0.846153846
+29,Fairfax County ,2,F,Y,Y,N,19,13,0.684210526
+29,Fairfax County ,2,F,Y,Y,Y,10,7,0.7
+29,Fairfax County ,3,F,N,N,N,334,291,0.871257485
+29,Fairfax County ,3,F,N,Y,N,41,36,0.87804878
+29,Fairfax County ,3,F,N,N,Y,184,151,0.820652174
+29,Fairfax County ,3,F,N,Y,Y,63,50,0.793650794
+29,Fairfax County ,3,F,Y,N,N,23,21,0.913043478
+29,Fairfax County ,3,F,Y,N,Y,35,22,0.628571429
+29,Fairfax County ,4,F,N,N,N,379,320,0.844327177
+29,Fairfax County ,4,F,N,Y,N,102,50,0.490196078
+29,Fairfax County ,4,F,N,N,Y,198,144,0.727272727
+29,Fairfax County ,4,F,N,Y,Y,269,120,0.446096654
+29,Fairfax County ,4,F,Y,N,N,19,13,0.684210526
+29,Fairfax County ,4,F,Y,Y,N,28,12,0.428571429
+29,Fairfax County ,4,F,Y,N,Y,11,8,0.727272727
+29,Fairfax County ,4,F,Y,Y,Y,67,41,0.611940299
+29,Fairfax County ,5,F,N,N,N,2355,2123,0.9014862
+29,Fairfax County ,5,F,N,Y,N,48,41,0.854166667
+29,Fairfax County ,5,F,N,N,Y,87,70,0.804597701
+29,Fairfax County ,5,F,N,Y,Y,47,40,0.85106383
+29,Fairfax County ,5,F,Y,N,N,193,133,0.689119171
+29,Fairfax County ,5,F,Y,N,Y,16,9,0.5625
+29,Fairfax County ,5,F,Y,Y,Y,12,8,0.666666667
+29,Fairfax County ,99,F,N,N,N,253,234,0.924901186
+29,Fairfax County ,99,F,N,N,Y,26,17,0.653846154
+29,Fairfax County ,2,M,N,N,N,822,735,0.894160584
+29,Fairfax County ,2,M,N,Y,N,177,121,0.683615819
+29,Fairfax County ,2,M,N,N,Y,150,132,0.88
+29,Fairfax County ,2,M,N,Y,Y,156,109,0.698717949
+29,Fairfax County ,2,M,Y,N,N,20,15,0.75
+29,Fairfax County ,2,M,Y,Y,N,30,18,0.6
+29,Fairfax County ,2,M,Y,Y,Y,13,10,0.769230769
+29,Fairfax County ,3,M,N,N,N,291,244,0.838487973
+29,Fairfax County ,3,M,N,Y,N,45,37,0.822222222
+29,Fairfax County ,3,M,N,N,Y,136,94,0.691176471
+29,Fairfax County ,3,M,N,Y,Y,82,59,0.719512195
+29,Fairfax County ,3,M,Y,N,N,52,39,0.75
+29,Fairfax County ,3,M,Y,N,Y,35,18,0.514285714
+29,Fairfax County ,3,M,Y,Y,Y,16,13,0.8125
+29,Fairfax County ,4,M,N,N,N,365,284,0.778082192
+29,Fairfax County ,4,M,N,Y,N,129,50,0.387596899
+29,Fairfax County ,4,M,N,N,Y,194,118,0.608247423
+29,Fairfax County ,4,M,N,Y,Y,288,98,0.340277778
+29,Fairfax County ,4,M,Y,N,N,48,31,0.645833333
+29,Fairfax County ,4,M,Y,Y,N,51,23,0.450980392
+29,Fairfax County ,4,M,Y,N,Y,20,10,0.5
+29,Fairfax County ,4,M,Y,Y,Y,87,36,0.413793103
+29,Fairfax County ,5,M,N,N,N,2348,2003,0.85306644
+29,Fairfax County ,5,M,N,Y,N,71,49,0.690140845
+29,Fairfax County ,5,M,N,N,Y,84,67,0.797619048
+29,Fairfax County ,5,M,N,Y,Y,61,44,0.721311475
+29,Fairfax County ,5,M,Y,N,N,321,214,0.666666667
+29,Fairfax County ,5,M,Y,Y,N,23,14,0.608695652
+29,Fairfax County ,5,M,Y,N,Y,16,6,0.375
+29,Fairfax County ,5,M,Y,Y,Y,10,7,0.7
+29,Fairfax County ,99,M,N,N,N,231,196,0.848484848
+29,Fairfax County ,99,M,N,N,Y,23,18,0.782608696
+29,Fairfax County ,99,M,Y,N,N,24,14,0.583333333
+30,Fauquier County ,3,F,N,N,N,18,12,0.666666667
+30,Fauquier County ,3,F,N,N,Y,17,12,0.705882353
+30,Fauquier County ,4,F,N,N,Y,12,10,0.833333333
+30,Fauquier County ,5,F,N,N,N,290,232,0.8
+30,Fauquier County ,5,F,N,N,Y,31,18,0.580645161
+30,Fauquier County ,5,F,Y,N,N,17,7,0.411764706
+30,Fauquier County ,99,F,N,N,N,11,10,0.909090909
+30,Fauquier County ,3,M,N,N,N,15,11,0.733333333
+30,Fauquier County ,3,M,N,N,Y,14,7,0.5
+30,Fauquier County ,4,M,N,N,N,16,9,0.5625
+30,Fauquier County ,5,M,N,N,N,293,200,0.682593857
+30,Fauquier County ,5,M,N,N,Y,30,10,0.333333333
+30,Fauquier County ,5,M,Y,N,N,26,12,0.461538462
+30,Fauquier County ,99,M,N,N,N,17,9,0.529411765
+31,Floyd County ,5,F,N,N,N,39,30,0.769230769
+31,Floyd County ,5,F,N,N,Y,12,7,0.583333333
+31,Floyd County ,5,M,N,N,N,58,28,0.482758621
+31,Floyd County ,5,M,N,N,Y,15,7,0.466666667
+32,Fluvanna County ,3,F,N,N,N,12,9,0.75
+32,Fluvanna County ,3,F,N,N,Y,10,6,0.6
+32,Fluvanna County ,5,F,N,N,N,76,62,0.815789474
+32,Fluvanna County ,5,F,N,N,Y,11,4,0.363636364
+32,Fluvanna County ,5,M,N,N,N,81,48,0.592592593
+33,Franklin County ,3,F,N,N,N,14,10,0.714285714
+33,Franklin County ,3,F,N,N,Y,10,5,0.5
+33,Franklin County ,5,F,N,N,N,122,93,0.762295082
+33,Franklin County ,5,F,N,N,Y,55,29,0.527272727
+33,Franklin County ,5,M,N,N,N,122,82,0.672131148
+33,Franklin County ,5,M,N,N,Y,43,11,0.255813953
+33,Franklin County ,5,M,Y,N,N,14,2,0.142857143
+34,Frederick County ,3,F,N,N,N,16,9,0.5625
+34,Frederick County ,4,F,N,N,N,16,11,0.6875
+34,Frederick County ,4,F,N,N,Y,16,10,0.625
+34,Frederick County ,4,F,N,Y,Y,16,6,0.375
+34,Frederick County ,5,F,N,N,N,283,221,0.780918728
+34,Frederick County ,5,F,N,N,Y,55,34,0.618181818
+34,Frederick County ,99,F,N,N,N,11,8,0.727272727
+34,Frederick County ,3,M,N,N,N,10,8,0.8
+34,Frederick County ,4,M,N,N,N,11,6,0.545454545
+34,Frederick County ,4,M,N,N,Y,17,6,0.352941176
+34,Frederick County ,5,M,N,N,N,265,169,0.637735849
+34,Frederick County ,5,M,N,N,Y,63,24,0.380952381
+34,Frederick County ,5,M,Y,N,N,21,10,0.476190476
+35,Giles County ,5,F,N,N,N,55,38,0.690909091
+35,Giles County ,5,F,N,N,Y,21,13,0.619047619
+35,Giles County ,5,M,N,N,N,39,31,0.794871795
+35,Giles County ,5,M,N,N,Y,23,11,0.47826087
+36,Gloucester County ,3,F,N,N,N,10,6,0.6
+36,Gloucester County ,5,F,N,N,N,131,90,0.687022901
+36,Gloucester County ,5,F,N,N,Y,24,9,0.375
+36,Gloucester County ,5,M,N,N,N,102,53,0.519607843
+36,Gloucester County ,5,M,N,N,Y,27,8,0.296296296
+36,Gloucester County ,5,M,Y,N,N,11,1,0.090909091
+37,Goochland County ,5,F,N,N,N,54,42,0.777777778
+37,Goochland County ,5,M,N,N,N,73,48,0.657534247
+37,Goochland County ,5,M,N,N,Y,11,5,0.454545455
+38,Grayson County ,5,F,N,N,N,30,23,0.766666667
+38,Grayson County ,5,F,N,N,Y,21,14,0.666666667
+38,Grayson County ,5,M,N,N,N,30,21,0.7
+38,Grayson County ,5,M,N,N,Y,19,6,0.315789474
+39,Greene County ,5,F,N,N,N,46,34,0.739130435
+39,Greene County ,5,F,N,N,Y,16,7,0.4375
+39,Greene County ,5,M,N,N,N,66,36,0.545454545
+39,Greene County ,5,M,N,N,Y,13,4,0.307692308
+40,Greensville County ,3,F,N,N,Y,47,32,0.680851064
+40,Greensville County ,5,F,N,N,N,16,15,0.9375
+40,Greensville County ,3,M,N,N,Y,34,14,0.411764706
+40,Greensville County ,5,M,N,N,N,19,8,0.421052632
+41,Halifax County ,3,F,N,N,N,29,21,0.724137931
+41,Halifax County ,3,F,N,N,Y,52,34,0.653846154
+41,Halifax County ,5,F,N,N,N,61,39,0.639344262
+41,Halifax County ,5,F,N,N,Y,34,8,0.235294118
+41,Halifax County ,3,M,N,N,N,20,11,0.55
+41,Halifax County ,3,M,N,N,Y,44,22,0.5
+41,Halifax County ,5,M,N,N,N,58,26,0.448275862
+41,Halifax County ,5,M,N,N,Y,16,7,0.4375
+42,Hanover County ,3,F,N,N,N,49,33,0.673469388
+42,Hanover County ,4,F,N,N,N,12,10,0.833333333
+42,Hanover County ,5,F,N,N,N,533,443,0.831144465
+42,Hanover County ,5,F,N,N,Y,19,9,0.473684211
+42,Hanover County ,5,F,Y,N,N,20,11,0.55
+42,Hanover County ,99,F,N,N,N,14,11,0.785714286
+42,Hanover County ,3,M,N,N,N,52,35,0.673076923
+42,Hanover County ,3,M,N,N,Y,13,8,0.615384615
+42,Hanover County ,4,M,N,N,N,15,10,0.666666667
+42,Hanover County ,5,M,N,N,N,520,391,0.751923077
+42,Hanover County ,5,M,N,N,Y,14,3,0.214285714
+42,Hanover County ,5,M,Y,N,N,62,26,0.419354839
+43,Henrico County ,2,F,N,N,N,83,77,0.927710843
+43,Henrico County ,2,F,N,Y,N,13,9,0.692307692
+43,Henrico County ,2,F,N,N,Y,21,20,0.952380952
+43,Henrico County ,3,F,N,N,N,295,235,0.796610169
+43,Henrico County ,3,F,N,N,Y,313,209,0.667731629
+43,Henrico County ,3,F,Y,N,N,16,9,0.5625
+43,Henrico County ,3,F,Y,N,Y,28,12,0.428571429
+43,Henrico County ,4,F,N,N,N,53,44,0.830188679
+43,Henrico County ,4,F,N,N,Y,37,25,0.675675676
+43,Henrico County ,4,F,N,Y,Y,12,3,0.25
+43,Henrico County ,5,F,N,N,N,607,526,0.866556837
+43,Henrico County ,5,F,N,Y,N,10,7,0.7
+43,Henrico County ,5,F,N,N,Y,66,43,0.651515152
+43,Henrico County ,5,F,Y,N,N,30,20,0.666666667
+43,Henrico County ,99,F,N,N,N,35,27,0.771428571
+43,Henrico County ,99,F,N,N,Y,21,11,0.523809524
+43,Henrico County ,2,M,N,N,N,93,79,0.849462366
+43,Henrico County ,2,M,N,Y,N,14,10,0.714285714
+43,Henrico County ,2,M,N,N,Y,16,13,0.8125
+43,Henrico County ,2,M,N,Y,Y,13,10,0.769230769
+43,Henrico County ,3,M,N,N,N,243,154,0.633744856
+43,Henrico County ,3,M,N,N,Y,282,153,0.542553191
+43,Henrico County ,3,M,Y,N,N,25,10,0.4
+43,Henrico County ,3,M,Y,N,Y,41,9,0.219512195
+43,Henrico County ,4,M,N,N,N,26,18,0.692307692
+43,Henrico County ,4,M,N,N,Y,31,13,0.419354839
+43,Henrico County ,4,M,N,Y,Y,21,1,0.047619048
+43,Henrico County ,5,M,N,N,N,645,527,0.817054264
+43,Henrico County ,5,M,N,N,Y,58,22,0.379310345
+43,Henrico County ,5,M,Y,N,N,63,43,0.682539683
+43,Henrico County ,5,M,Y,N,Y,24,6,0.25
+43,Henrico County ,99,M,N,N,N,28,19,0.678571429
+43,Henrico County ,99,M,N,N,Y,19,7,0.368421053
+44,Henry County ,3,F,N,N,N,26,18,0.692307692
+44,Henry County ,3,F,N,N,Y,38,29,0.763157895
+44,Henry County ,4,F,N,N,Y,14,10,0.714285714
+44,Henry County ,5,F,N,N,N,88,73,0.829545455
+44,Henry County ,5,F,N,N,Y,66,33,0.5
+44,Henry County ,3,M,N,N,N,25,15,0.6
+44,Henry County ,3,M,N,N,Y,25,18,0.72
+44,Henry County ,4,M,N,N,Y,11,6,0.545454545
+44,Henry County ,5,M,N,N,N,72,53,0.736111111
+44,Henry County ,5,M,N,N,Y,52,26,0.5
+44,Henry County ,5,M,Y,N,N,13,7,0.538461538
+46,Isle of Wight County ,3,F,N,N,N,23,20,0.869565217
+46,Isle of Wight County ,3,F,N,N,Y,28,18,0.642857143
+46,Isle of Wight County ,5,F,N,N,N,107,83,0.775700935
+46,Isle of Wight County ,5,F,N,N,Y,20,11,0.55
+46,Isle of Wight County ,3,M,N,N,N,26,17,0.653846154
+46,Isle of Wight County ,3,M,N,N,Y,19,5,0.263157895
+46,Isle of Wight County ,5,M,N,N,N,104,53,0.509615385
+46,Isle of Wight County ,5,M,N,N,Y,23,12,0.52173913
+48,King George County ,3,F,N,N,N,18,16,0.888888889
+48,King George County ,3,F,N,N,Y,12,7,0.583333333
+48,King George County ,5,F,N,N,N,95,69,0.726315789
+48,King George County ,5,F,N,N,Y,17,6,0.352941176
+48,King George County ,3,M,N,N,N,13,4,0.307692308
+48,King George County ,5,M,N,N,N,89,53,0.595505618
+48,King George County ,5,M,N,N,Y,16,7,0.4375
+50,King William County ,5,F,N,N,N,44,30,0.681818182
+50,King William County ,5,F,N,N,Y,11,7,0.636363636
+50,King William County ,5,M,N,N,N,44,20,0.454545455
+51,Lancaster County ,3,F,N,N,Y,13,2,0.153846154
+51,Lancaster County ,5,F,N,N,N,17,11,0.647058824
+51,Lancaster County ,3,M,N,N,Y,12,5,0.416666667
+51,Lancaster County ,5,M,N,N,N,16,12,0.75
+52,Lee County ,5,F,N,N,N,41,34,0.829268293
+52,Lee County ,5,F,N,N,Y,49,33,0.673469388
+52,Lee County ,5,M,N,N,N,49,30,0.612244898
+52,Lee County ,5,M,N,N,Y,38,17,0.447368421
+53,Loudoun County ,2,F,N,N,N,256,237,0.92578125
+53,Loudoun County ,2,F,N,Y,N,19,16,0.842105263
+53,Loudoun County ,2,F,N,N,Y,39,35,0.897435897
+53,Loudoun County ,2,F,N,Y,Y,22,18,0.818181818
+53,Loudoun County ,3,F,N,N,N,126,106,0.841269841
+53,Loudoun County ,3,F,N,N,Y,37,27,0.72972973
+53,Loudoun County ,4,F,N,N,N,143,122,0.853146853
+53,Loudoun County ,4,F,N,Y,N,27,15,0.555555556
+53,Loudoun County ,4,F,N,N,Y,79,64,0.810126582
+53,Loudoun County ,4,F,N,Y,Y,70,26,0.371428571
+53,Loudoun County ,5,F,N,N,N,1245,1134,0.910843373
+53,Loudoun County ,5,F,N,N,Y,47,38,0.808510638
+53,Loudoun County ,5,F,Y,N,N,80,65,0.8125
+53,Loudoun County ,99,F,N,N,N,85,79,0.929411765
+53,Loudoun County ,2,M,N,N,N,257,225,0.875486381
+53,Loudoun County ,2,M,N,Y,N,26,21,0.807692308
+53,Loudoun County ,2,M,N,N,Y,39,28,0.717948718
+53,Loudoun County ,2,M,N,Y,Y,13,10,0.769230769
+53,Loudoun County ,3,M,N,N,N,111,94,0.846846847
+53,Loudoun County ,3,M,N,N,Y,36,21,0.583333333
+53,Loudoun County ,3,M,Y,N,N,28,21,0.75
+53,Loudoun County ,4,M,N,N,N,150,129,0.86
+53,Loudoun County ,4,M,N,Y,N,20,5,0.25
+53,Loudoun County ,4,M,N,N,Y,66,45,0.681818182
+53,Loudoun County ,4,M,N,Y,Y,58,21,0.362068966
+53,Loudoun County ,4,M,Y,N,N,23,13,0.565217391
+53,Loudoun County ,4,M,Y,N,Y,15,6,0.4
+53,Loudoun County ,4,M,Y,Y,Y,10,7,0.7
+53,Loudoun County ,5,M,N,N,N,1246,1080,0.866773676
+53,Loudoun County ,5,M,N,Y,N,10,6,0.6
+53,Loudoun County ,5,M,N,N,Y,57,38,0.666666667
+53,Loudoun County ,5,M,N,Y,Y,14,12,0.857142857
+53,Loudoun County ,5,M,Y,N,N,129,82,0.635658915
+53,Loudoun County ,99,M,N,N,N,81,70,0.864197531
+54,Louisa County ,3,F,N,N,N,12,7,0.583333333
+54,Louisa County ,3,F,N,N,Y,23,12,0.52173913
+54,Louisa County ,5,F,N,N,N,66,47,0.712121212
+54,Louisa County ,5,F,N,N,Y,34,18,0.529411765
+54,Louisa County ,3,M,N,N,N,15,11,0.733333333
+54,Louisa County ,3,M,N,N,Y,17,7,0.411764706
+54,Louisa County ,5,M,N,N,N,65,33,0.507692308
+54,Louisa County ,5,M,N,N,Y,26,11,0.423076923
+55,Lunenburg County ,3,F,N,N,Y,20,17,0.85
+55,Lunenburg County ,5,F,N,N,N,11,7,0.636363636
+55,Lunenburg County ,5,M,N,N,N,18,7,0.388888889
+56,Madison County ,5,F,N,N,N,40,34,0.85
+56,Madison County ,5,F,N,N,Y,20,12,0.6
+56,Madison County ,5,M,N,N,N,32,12,0.375
+56,Madison County ,5,M,N,N,Y,18,3,0.166666667
+57,Mathews County ,5,F,N,N,N,28,23,0.821428571
+57,Mathews County ,5,M,N,N,N,45,29,0.644444444
+58,Mecklenburg County ,3,F,N,N,N,20,14,0.7
+58,Mecklenburg County ,3,F,N,N,Y,47,24,0.510638298
+58,Mecklenburg County ,5,F,N,N,N,58,45,0.775862069
+58,Mecklenburg County ,5,F,N,N,Y,24,14,0.583333333
+58,Mecklenburg County ,3,M,N,N,N,19,11,0.578947368
+58,Mecklenburg County ,3,M,N,N,Y,38,17,0.447368421
+58,Mecklenburg County ,5,M,N,N,N,61,36,0.590163934
+58,Mecklenburg County ,5,M,N,N,Y,23,6,0.260869565
+59,Middlesex County ,5,F,N,N,N,20,17,0.85
+59,Middlesex County ,5,M,N,N,N,19,9,0.473684211
+59,Middlesex County ,5,M,N,N,Y,11,2,0.181818182
+60,Montgomery County ,3,F,N,N,Y,10,5,0.5
+60,Montgomery County ,5,F,N,N,N,224,186,0.830357143
+60,Montgomery County ,5,F,N,N,Y,62,37,0.596774194
+60,Montgomery County ,3,M,N,N,Y,13,5,0.384615385
+60,Montgomery County ,5,M,N,N,N,198,149,0.752525253
+60,Montgomery County ,5,M,N,N,Y,56,27,0.482142857
+60,Montgomery County ,5,M,Y,N,N,13,7,0.538461538
+62,Nelson County ,5,F,N,N,N,40,25,0.625
+62,Nelson County ,5,F,N,N,Y,14,10,0.714285714
+62,Nelson County ,5,M,N,N,N,33,19,0.575757576
+62,Nelson County ,5,M,N,N,Y,15,3,0.2
+63,New Kent County ,5,F,N,N,N,62,47,0.758064516
+63,New Kent County ,5,F,N,N,Y,15,11,0.733333333
+63,New Kent County ,5,M,N,N,N,59,37,0.627118644
+65,Northampton County ,3,F,N,N,Y,23,12,0.52173913
+65,Northampton County ,5,F,N,N,N,12,8,0.666666667
+65,Northampton County ,3,M,N,N,Y,11,3,0.272727273
+65,Northampton County ,5,M,N,N,N,12,8,0.666666667
+66,Northumberland County ,5,F,N,N,N,15,11,0.733333333
+66,Northumberland County ,3,M,N,N,Y,14,6,0.428571429
+66,Northumberland County ,5,M,N,N,N,24,16,0.666666667
+67,Nottoway County ,3,F,N,N,N,11,10,0.909090909
+67,Nottoway County ,3,F,N,N,Y,19,8,0.421052632
+67,Nottoway County ,5,F,N,N,N,22,19,0.863636364
+67,Nottoway County ,5,F,N,N,Y,14,11,0.785714286
+67,Nottoway County ,3,M,N,N,Y,12,4,0.333333333
+67,Nottoway County ,5,M,N,N,N,19,12,0.631578947
+68,Orange County ,3,F,N,N,N,10,8,0.8
+68,Orange County ,3,F,N,N,Y,19,9,0.473684211
+68,Orange County ,5,F,N,N,N,101,73,0.722772277
+68,Orange County ,5,F,N,N,Y,26,11,0.423076923
+68,Orange County ,5,M,N,N,N,90,48,0.533333333
+68,Orange County ,5,M,N,N,Y,25,6,0.24
+69,Page County ,5,F,N,N,N,60,42,0.7
+69,Page County ,5,F,N,N,Y,40,13,0.325
+69,Page County ,5,M,N,N,N,70,30,0.428571429
+69,Page County ,5,M,N,N,Y,39,5,0.128205128
+70,Patrick County ,5,F,N,N,N,33,25,0.757575758
+70,Patrick County ,5,F,N,N,Y,37,23,0.621621622
+70,Patrick County ,5,M,N,N,N,36,25,0.694444444
+70,Patrick County ,5,M,N,N,Y,31,9,0.290322581
+70,Patrick County ,5,M,Y,N,Y,10,6,0.6
+71,Pittsylvania County ,3,F,N,N,N,20,18,0.9
+71,Pittsylvania County ,3,F,N,N,Y,46,34,0.739130435
+71,Pittsylvania County ,3,F,Y,N,Y,11,3,0.272727273
+71,Pittsylvania County ,5,F,N,N,N,144,111,0.770833333
+71,Pittsylvania County ,5,F,N,N,Y,67,39,0.582089552
+71,Pittsylvania County ,3,M,N,N,N,34,18,0.529411765
+71,Pittsylvania County ,3,M,N,N,Y,26,8,0.307692308
+71,Pittsylvania County ,3,M,Y,N,Y,12,4,0.333333333
+71,Pittsylvania County ,5,M,N,N,N,157,107,0.681528662
+71,Pittsylvania County ,5,M,N,N,Y,60,22,0.366666667
+71,Pittsylvania County ,5,M,Y,N,N,18,6,0.333333333
+72,Powhatan County ,5,F,N,N,N,137,106,0.773722628
+72,Powhatan County ,5,F,N,N,Y,12,7,0.583333333
+72,Powhatan County ,5,M,N,N,N,106,69,0.650943396
+72,Powhatan County ,5,M,N,N,Y,17,6,0.352941176
+72,Powhatan County ,5,M,Y,N,N,12,5,0.416666667
+73,Prince Edward County ,3,F,N,N,N,15,12,0.8
+73,Prince Edward County ,3,F,N,N,Y,28,20,0.714285714
+73,Prince Edward County ,5,F,N,N,N,18,14,0.777777778
+73,Prince Edward County ,3,M,N,N,N,16,8,0.5
+73,Prince Edward County ,3,M,N,N,Y,22,12,0.545454545
+73,Prince Edward County ,5,M,N,N,N,20,13,0.65
+74,Prince George County ,3,F,N,N,N,37,29,0.783783784
+74,Prince George County ,3,F,N,N,Y,30,24,0.8
+74,Prince George County ,4,F,N,N,Y,10,5,0.5
+74,Prince George County ,5,F,N,N,N,76,60,0.789473684
+74,Prince George County ,5,F,N,N,Y,24,14,0.583333333
+74,Prince George County ,3,M,N,N,N,25,11,0.44
+74,Prince George County ,3,M,N,N,Y,27,16,0.592592593
+74,Prince George County ,5,M,N,N,N,78,42,0.538461538
+74,Prince George County ,5,M,N,N,Y,22,7,0.318181818
+75,Prince William County ,2,F,N,N,N,125,114,0.912
+75,Prince William County ,2,F,N,Y,N,22,16,0.727272727
+75,Prince William County ,2,F,N,N,Y,36,34,0.944444444
+75,Prince William County ,2,F,N,Y,Y,29,21,0.724137931
+75,Prince William County ,3,F,N,N,N,362,301,0.831491713
+75,Prince William County ,3,F,N,Y,N,10,9,0.9
+75,Prince William County ,3,F,N,N,Y,195,143,0.733333333
+75,Prince William County ,3,F,N,Y,Y,27,24,0.888888889
+75,Prince William County ,3,F,Y,N,N,13,6,0.461538462
+75,Prince William County ,3,F,Y,N,Y,13,8,0.615384615
+75,Prince William County ,4,F,N,N,N,245,188,0.767346939
+75,Prince William County ,4,F,N,Y,N,74,35,0.472972973
+75,Prince William County ,4,F,N,N,Y,207,160,0.77294686
+75,Prince William County ,4,F,N,Y,Y,191,100,0.523560209
+75,Prince William County ,4,F,Y,N,N,14,6,0.428571429
+75,Prince William County ,4,F,Y,Y,Y,11,2,0.181818182
+75,Prince William County ,5,F,N,N,N,876,757,0.864155251
+75,Prince William County ,5,F,N,N,Y,66,46,0.696969697
+75,Prince William County ,5,F,Y,N,N,33,17,0.515151515
+75,Prince William County ,99,F,N,N,N,154,130,0.844155844
+75,Prince William County ,99,F,N,N,Y,37,31,0.837837838
+75,Prince William County ,2,M,N,N,N,113,100,0.884955752
+75,Prince William County ,2,M,N,Y,N,43,36,0.837209302
+75,Prince William County ,2,M,N,N,Y,45,39,0.866666667
+75,Prince William County ,2,M,N,Y,Y,41,35,0.853658537
+75,Prince William County ,3,M,N,N,N,309,233,0.754045307
+75,Prince William County ,3,M,N,Y,N,14,12,0.857142857
+75,Prince William County ,3,M,N,N,Y,151,89,0.589403974
+75,Prince William County ,3,M,N,Y,Y,27,22,0.814814815
+75,Prince William County ,3,M,Y,N,N,48,26,0.541666667
+75,Prince William County ,3,M,Y,N,Y,14,5,0.357142857
+75,Prince William County ,4,M,N,N,N,223,163,0.730941704
+75,Prince William County ,4,M,N,Y,N,97,32,0.329896907
+75,Prince William County ,4,M,N,N,Y,165,103,0.624242424
+75,Prince William County ,4,M,N,Y,Y,203,75,0.369458128
+75,Prince William County ,4,M,Y,N,N,11,7,0.636363636
+75,Prince William County ,4,M,Y,Y,Y,20,3,0.15
+75,Prince William County ,5,M,N,N,N,827,638,0.77146312
+75,Prince William County ,5,M,N,N,Y,54,32,0.592592593
+75,Prince William County ,5,M,N,Y,Y,16,14,0.875
+75,Prince William County ,5,M,Y,N,N,104,61,0.586538462
+75,Prince William County ,99,M,N,N,N,123,88,0.715447154
+75,Prince William County ,99,M,N,N,Y,19,10,0.526315789
+77,Pulaski County ,5,F,N,N,N,83,64,0.771084337
+77,Pulaski County ,5,F,N,N,Y,45,20,0.444444444
+77,Pulaski County ,5,M,N,N,N,57,38,0.666666667
+77,Pulaski County ,5,M,N,N,Y,40,18,0.45
+78,Rappahannock County ,5,F,N,N,N,15,11,0.733333333
+78,Rappahannock County ,5,M,N,N,N,24,14,0.583333333
+79,Richmond County ,5,F,N,N,N,16,13,0.8125
+79,Richmond County ,5,M,N,N,N,17,6,0.352941176
+80,Roanoke County ,2,F,N,N,N,13,12,0.923076923
+80,Roanoke County ,3,F,N,N,N,22,17,0.772727273
+80,Roanoke County ,3,F,N,N,Y,19,13,0.684210526
+80,Roanoke County ,4,F,N,N,N,10,7,0.7
+80,Roanoke County ,5,F,N,N,N,352,312,0.886363636
+80,Roanoke County ,5,F,N,N,Y,67,35,0.52238806
+80,Roanoke County ,5,F,Y,N,N,14,9,0.642857143
+80,Roanoke County ,99,F,N,N,N,15,13,0.866666667
+80,Roanoke County ,3,M,N,N,N,11,9,0.818181818
+80,Roanoke County ,3,M,N,N,Y,15,9,0.6
+80,Roanoke County ,4,M,N,N,N,11,10,0.909090909
+80,Roanoke County ,5,M,N,N,N,363,277,0.763085399
+80,Roanoke County ,5,M,N,N,Y,58,23,0.396551724
+80,Roanoke County ,5,M,Y,N,N,37,17,0.459459459
+80,Roanoke County ,5,M,Y,N,Y,15,5,0.333333333
+80,Roanoke County ,99,M,N,N,N,14,8,0.571428571
+81,Rockbridge County ,5,F,N,N,N,60,51,0.85
+81,Rockbridge County ,5,F,N,N,Y,35,18,0.514285714
+81,Rockbridge County ,5,M,N,N,N,72,38,0.527777778
+81,Rockbridge County ,5,M,N,N,Y,29,8,0.275862069
+82,Rockingham County ,4,F,N,Y,N,10,8,0.8
+82,Rockingham County ,4,F,N,Y,Y,17,7,0.411764706
+82,Rockingham County ,5,F,N,N,N,232,174,0.75
+82,Rockingham County ,5,F,N,N,Y,76,34,0.447368421
+82,Rockingham County ,4,M,N,Y,Y,29,11,0.379310345
+82,Rockingham County ,5,M,N,N,N,249,145,0.582329317
+82,Rockingham County ,5,M,N,N,Y,63,16,0.253968254
+82,Rockingham County ,5,M,Y,N,N,15,4,0.266666667
+83,Russell County ,5,F,N,N,N,73,58,0.794520548
+83,Russell County ,5,F,N,N,Y,74,51,0.689189189
+83,Russell County ,5,M,N,N,N,57,41,0.719298246
+83,Russell County ,5,M,N,N,Y,45,25,0.555555556
+83,Russell County ,5,M,Y,N,Y,12,3,0.25
+84,Scott County ,5,F,N,N,N,73,59,0.808219178
+84,Scott County ,5,F,N,N,Y,60,31,0.516666667
+84,Scott County ,5,M,N,N,N,47,37,0.787234043
+84,Scott County ,5,M,N,N,Y,39,25,0.641025641
+85,Shenandoah County ,5,F,N,N,N,125,93,0.744
+85,Shenandoah County ,5,F,N,N,Y,43,27,0.627906977
+85,Shenandoah County ,5,M,N,N,N,125,65,0.52
+85,Shenandoah County ,5,M,N,N,Y,42,11,0.261904762
+85,Shenandoah County ,5,M,Y,N,N,16,1,0.0625
+86,Smyth County ,5,F,N,N,N,71,58,0.816901408
+86,Smyth County ,5,F,N,N,Y,43,27,0.627906977
+86,Smyth County ,5,M,N,N,N,96,58,0.604166667
+86,Smyth County ,5,M,N,N,Y,51,19,0.37254902
+86,Smyth County ,5,M,Y,N,Y,10,4,0.4
+87,Southampton County ,3,F,N,N,N,15,14,0.933333333
+87,Southampton County ,3,F,N,N,Y,10,9,0.9
+87,Southampton County ,5,F,N,N,N,31,26,0.838709677
+87,Southampton County ,3,M,N,N,N,18,10,0.555555556
+87,Southampton County ,3,M,N,N,Y,11,5,0.454545455
+87,Southampton County ,5,M,N,N,N,44,29,0.659090909
+88,Spotsylvania County ,2,F,N,N,N,14,11,0.785714286
+88,Spotsylvania County ,3,F,N,N,N,88,65,0.738636364
+88,Spotsylvania County ,3,F,N,N,Y,53,32,0.603773585
+88,Spotsylvania County ,4,F,N,N,N,38,32,0.842105263
+88,Spotsylvania County ,4,F,N,N,Y,31,20,0.64516129
+88,Spotsylvania County ,4,F,N,Y,Y,17,7,0.411764706
+88,Spotsylvania County ,5,F,N,N,N,416,325,0.78125
+88,Spotsylvania County ,5,F,N,N,Y,69,40,0.579710145
+88,Spotsylvania County ,5,F,Y,N,N,17,5,0.294117647
+88,Spotsylvania County ,99,F,N,N,N,33,24,0.727272727
+88,Spotsylvania County ,2,M,N,N,N,20,15,0.75
+88,Spotsylvania County ,3,M,N,N,N,92,66,0.717391304
+88,Spotsylvania County ,3,M,N,N,Y,52,25,0.480769231
+88,Spotsylvania County ,3,M,Y,N,Y,13,4,0.307692308
+88,Spotsylvania County ,4,M,N,N,N,39,27,0.692307692
+88,Spotsylvania County ,4,M,N,Y,N,10,2,0.2
+88,Spotsylvania County ,4,M,N,N,Y,27,15,0.555555556
+88,Spotsylvania County ,4,M,N,Y,Y,15,7,0.466666667
+88,Spotsylvania County ,5,M,N,N,N,421,292,0.693586698
+88,Spotsylvania County ,5,M,N,N,Y,72,28,0.388888889
+88,Spotsylvania County ,5,M,Y,N,N,34,13,0.382352941
+88,Spotsylvania County ,5,M,Y,N,Y,13,6,0.461538462
+88,Spotsylvania County ,99,M,N,N,N,24,10,0.416666667
+89,Stafford County ,2,F,N,N,N,22,18,0.818181818
+89,Stafford County ,3,F,N,N,N,111,92,0.828828829
+89,Stafford County ,3,F,N,N,Y,70,44,0.628571429
+89,Stafford County ,4,F,N,N,N,75,57,0.76
+89,Stafford County ,4,F,N,Y,N,11,3,0.272727273
+89,Stafford County ,4,F,N,N,Y,41,27,0.658536585
+89,Stafford County ,4,F,N,Y,Y,22,11,0.5
+89,Stafford County ,5,F,N,N,N,486,414,0.851851852
+89,Stafford County ,5,F,N,N,Y,65,31,0.476923077
+89,Stafford County ,5,F,Y,N,N,23,16,0.695652174
+89,Stafford County ,99,F,N,N,N,69,54,0.782608696
+89,Stafford County ,99,F,N,N,Y,20,16,0.8
+89,Stafford County ,2,M,N,N,N,18,16,0.888888889
+89,Stafford County ,3,M,N,N,N,134,92,0.686567164
+89,Stafford County ,3,M,N,N,Y,57,30,0.526315789
+89,Stafford County ,3,M,Y,N,N,18,9,0.5
+89,Stafford County ,3,M,Y,N,Y,15,4,0.266666667
+89,Stafford County ,4,M,N,N,N,58,37,0.637931034
+89,Stafford County ,4,M,N,N,Y,30,19,0.633333333
+89,Stafford County ,4,M,N,Y,Y,28,19,0.678571429
+89,Stafford County ,5,M,N,N,N,521,357,0.685220729
+89,Stafford County ,5,M,N,N,Y,55,23,0.418181818
+89,Stafford County ,5,M,Y,N,N,30,13,0.433333333
+89,Stafford County ,99,M,N,N,N,45,28,0.622222222
+89,Stafford County ,99,M,N,N,Y,13,7,0.538461538
+90,Surry County ,3,F,N,N,Y,13,10,0.769230769
+90,Surry County ,3,M,N,N,N,10,5,0.5
+91,Sussex County ,3,F,N,N,Y,25,16,0.64
+91,Sussex County ,3,M,N,N,Y,16,11,0.6875
+92,Tazewell County ,5,F,N,N,N,125,108,0.864
+92,Tazewell County ,5,F,N,N,Y,64,33,0.515625
+92,Tazewell County ,5,M,N,N,N,128,100,0.78125
+92,Tazewell County ,5,M,N,N,Y,69,38,0.550724638
+92,Tazewell County ,5,M,Y,N,N,10,6,0.6
+92,Tazewell County ,5,M,Y,N,Y,11,6,0.545454545
+93,Warren County ,5,F,N,N,N,111,79,0.711711712
+93,Warren County ,5,F,N,N,Y,47,23,0.489361702
+93,Warren County ,5,M,N,N,N,127,65,0.511811024
+93,Warren County ,5,M,N,N,Y,27,7,0.259259259
+93,Warren County ,5,M,Y,N,N,10,4,0.4
+94,Washington County ,5,F,N,N,N,135,114,0.844444444
+94,Washington County ,5,F,N,N,Y,96,66,0.6875
+94,Washington County ,5,M,N,N,N,115,94,0.817391304
+94,Washington County ,5,M,N,N,Y,67,36,0.537313433
+94,Washington County ,5,M,Y,N,N,16,6,0.375
+94,Washington County ,5,M,Y,N,Y,22,9,0.409090909
+95,Westmoreland County ,3,F,N,N,Y,21,11,0.523809524
+95,Westmoreland County ,5,F,N,N,N,11,7,0.636363636
+95,Westmoreland County ,5,F,N,N,Y,10,5,0.5
+95,Westmoreland County ,3,M,N,N,Y,22,12,0.545454545
+95,Westmoreland County ,5,M,N,N,N,13,5,0.384615385
+96,Wise County ,5,F,N,N,N,87,80,0.91954023
+96,Wise County ,5,F,N,N,Y,91,48,0.527472527
+96,Wise County ,5,M,N,N,N,97,67,0.690721649
+96,Wise County ,5,M,N,N,Y,95,48,0.505263158
+96,Wise County ,5,M,Y,N,Y,12,4,0.333333333
+97,Wythe County ,5,F,N,N,N,76,70,0.921052632
+97,Wythe County ,5,F,N,N,Y,41,28,0.682926829
+97,Wythe County ,5,M,N,N,N,86,59,0.686046512
+97,Wythe County ,5,M,N,N,Y,36,20,0.555555556
+98,York County ,2,F,N,N,N,27,24,0.888888889
+98,York County ,3,F,N,N,N,52,47,0.903846154
+98,York County ,3,F,N,N,Y,11,8,0.727272727
+98,York County ,4,F,N,N,N,23,17,0.739130435
+98,York County ,5,F,N,N,N,311,260,0.836012862
+98,York County ,5,F,Y,N,N,12,5,0.416666667
+98,York County ,99,F,N,N,N,27,18,0.666666667
+98,York County ,2,M,N,N,N,22,20,0.909090909
+98,York County ,3,M,N,N,N,42,35,0.833333333
+98,York County ,3,M,N,N,Y,11,8,0.727272727
+98,York County ,4,M,N,N,N,29,21,0.724137931
+98,York County ,5,M,N,N,N,279,201,0.720430108
+98,York County ,5,M,N,N,Y,15,5,0.333333333
+98,York County ,5,M,Y,N,N,26,10,0.384615385
+98,York County ,99,M,N,N,N,30,20,0.666666667
+101,Alexandria City ,2,F,N,N,N,11,10,0.909090909
+101,Alexandria City ,3,F,N,N,N,42,36,0.857142857
+101,Alexandria City ,3,F,N,N,Y,64,44,0.6875
+101,Alexandria City ,3,F,N,Y,Y,20,13,0.65
+101,Alexandria City ,4,F,N,N,N,12,9,0.75
+101,Alexandria City ,4,F,N,N,Y,35,28,0.8
+101,Alexandria City ,4,F,N,Y,Y,38,14,0.368421053
+101,Alexandria City ,5,F,N,N,N,72,69,0.958333333
+101,Alexandria City ,3,M,N,N,N,22,14,0.636363636
+101,Alexandria City ,3,M,N,N,Y,50,31,0.62
+101,Alexandria City ,3,M,N,Y,Y,14,9,0.642857143
+101,Alexandria City ,4,M,N,N,N,19,9,0.473684211
+101,Alexandria City ,4,M,N,N,Y,17,10,0.588235294
+101,Alexandria City ,4,M,N,Y,Y,50,12,0.24
+101,Alexandria City ,5,M,N,N,N,57,46,0.807017544
+102,Bristol City ,5,F,N,N,N,32,31,0.96875
+102,Bristol City ,5,F,N,N,Y,17,9,0.529411765
+102,Bristol City ,5,M,N,N,N,29,22,0.75862069
+102,Bristol City ,5,M,N,N,Y,29,11,0.379310345
+103,Buena Vista City ,5,F,N,N,N,14,9,0.642857143
+103,Buena Vista City ,5,M,N,N,N,22,10,0.454545455
+104,Charlottesville City ,3,F,N,N,N,12,8,0.666666667
+104,Charlottesville City ,3,F,N,N,Y,26,13,0.5
+104,Charlottesville City ,5,F,N,N,N,52,44,0.846153846
+104,Charlottesville City ,5,F,N,N,Y,12,6,0.5
+104,Charlottesville City ,3,M,N,N,Y,14,8,0.571428571
+104,Charlottesville City ,5,M,N,N,N,43,30,0.697674419
+106,Colonial Heights City ,5,F,N,N,N,53,46,0.867924528
+106,Colonial Heights City ,5,M,N,N,N,50,33,0.66
+106,Colonial Heights City ,5,M,N,N,Y,13,6,0.461538462
+107,Covington City ,5,F,N,N,N,10,9,0.9
+107,Covington City ,5,M,N,N,N,16,12,0.75
+108,Danville City ,3,F,N,N,N,63,38,0.603174603
+108,Danville City ,3,F,N,N,Y,57,26,0.456140351
+108,Danville City ,5,F,N,N,N,40,26,0.65
+108,Danville City ,3,M,N,N,N,66,39,0.590909091
+108,Danville City ,3,M,N,N,Y,37,16,0.432432432
+108,Danville City ,5,M,N,N,N,35,24,0.685714286
+109,Falls Church City ,5,F,N,N,N,56,48,0.857142857
+109,Falls Church City ,5,M,N,N,N,49,41,0.836734694
+109,Falls Church City ,5,M,Y,N,N,14,14,1
+109,Falls Church City ,99,M,N,N,N,10,10,1
+110,Fredericksburg City ,3,F,N,N,N,33,25,0.757575758
+110,Fredericksburg City ,3,F,N,N,Y,30,16,0.533333333
+110,Fredericksburg City ,5,F,N,N,N,47,43,0.914893617
+110,Fredericksburg City ,3,M,N,N,N,19,12,0.631578947
+110,Fredericksburg City ,3,M,N,N,Y,18,10,0.555555556
+110,Fredericksburg City ,5,M,N,N,N,40,29,0.725
+111,Galax City ,5,F,N,N,N,26,24,0.923076923
+111,Galax City ,4,M,N,Y,Y,10,3,0.3
+111,Galax City ,5,M,N,N,N,23,20,0.869565217
+112,Hampton City ,3,F,N,N,N,162,119,0.734567901
+112,Hampton City ,3,F,N,N,Y,222,147,0.662162162
+112,Hampton City ,3,F,Y,N,Y,12,5,0.416666667
+112,Hampton City ,4,F,N,N,N,22,14,0.636363636
+112,Hampton City ,4,F,N,N,Y,13,10,0.769230769
+112,Hampton City ,5,F,N,N,N,110,76,0.690909091
+112,Hampton City ,5,F,N,N,Y,49,23,0.469387755
+112,Hampton City ,5,F,Y,N,N,11,4,0.363636364
+112,Hampton City ,99,F,N,N,N,22,14,0.636363636
+112,Hampton City ,99,F,N,N,Y,20,15,0.75
+112,Hampton City ,3,M,N,N,N,195,120,0.615384615
+112,Hampton City ,3,M,N,N,Y,177,69,0.389830508
+112,Hampton City ,3,M,Y,N,N,18,9,0.5
+112,Hampton City ,3,M,Y,N,Y,26,11,0.423076923
+112,Hampton City ,4,M,N,N,N,11,6,0.545454545
+112,Hampton City ,5,M,N,N,N,101,52,0.514851485
+112,Hampton City ,5,M,N,N,Y,36,13,0.361111111
+112,Hampton City ,5,M,Y,N,N,12,2,0.166666667
+112,Hampton City ,99,M,N,N,N,15,10,0.666666667
+113,Harrisonburg City ,3,F,N,N,Y,15,8,0.533333333
+113,Harrisonburg City ,4,F,N,N,Y,11,4,0.363636364
+113,Harrisonburg City ,4,F,N,Y,Y,47,22,0.468085106
+113,Harrisonburg City ,5,F,N,N,N,24,22,0.916666667
+113,Harrisonburg City ,3,M,N,N,Y,10,3,0.3
+113,Harrisonburg City ,4,M,N,Y,Y,43,11,0.255813953
+113,Harrisonburg City ,5,M,N,N,N,32,23,0.71875
+113,Harrisonburg City ,5,M,N,N,Y,13,5,0.384615385
+113,Harrisonburg City ,5,M,N,Y,Y,12,6,0.5
+114,Hopewell City ,3,F,N,N,N,13,7,0.538461538
+114,Hopewell City ,3,F,N,N,Y,45,12,0.266666667
+114,Hopewell City ,5,F,N,N,N,26,13,0.5
+114,Hopewell City ,5,F,N,N,Y,13,4,0.307692308
+114,Hopewell City ,3,M,N,N,N,22,9,0.409090909
+114,Hopewell City ,3,M,N,N,Y,39,18,0.461538462
+114,Hopewell City ,5,M,N,N,N,18,9,0.5
+114,Hopewell City ,5,M,N,N,Y,16,5,0.3125
+115,Lynchburg City ,3,F,N,N,N,36,26,0.722222222
+115,Lynchburg City ,3,F,N,N,Y,83,46,0.554216867
+115,Lynchburg City ,5,F,N,N,N,73,62,0.849315068
+115,Lynchburg City ,5,F,N,N,Y,21,16,0.761904762
+115,Lynchburg City ,3,M,N,N,N,31,17,0.548387097
+115,Lynchburg City ,3,M,N,N,Y,56,24,0.428571429
+115,Lynchburg City ,5,M,N,N,N,94,63,0.670212766
+115,Lynchburg City ,5,M,N,N,Y,26,13,0.5
+116,Martinsville City ,3,F,N,N,N,19,13,0.684210526
+116,Martinsville City ,3,F,N,N,Y,27,20,0.740740741
+116,Martinsville City ,5,F,N,N,N,10,8,0.8
+116,Martinsville City ,3,M,N,N,N,16,12,0.75
+116,Martinsville City ,3,M,N,N,Y,18,11,0.611111111
+116,Martinsville City ,5,M,N,N,N,22,15,0.681818182
+117,Newport News City ,2,F,N,N,N,12,6,0.5
+117,Newport News City ,3,F,N,N,N,162,111,0.685185185
+117,Newport News City ,3,F,N,N,Y,259,147,0.567567568
+117,Newport News City ,3,F,Y,N,N,10,3,0.3
+117,Newport News City ,3,F,Y,N,Y,28,15,0.535714286
+117,Newport News City ,4,F,N,N,N,30,23,0.766666667
+117,Newport News City ,4,F,N,N,Y,28,20,0.714285714
+117,Newport News City ,5,F,N,N,N,201,144,0.71641791
+117,Newport News City ,5,F,N,N,Y,42,20,0.476190476
+117,Newport News City ,99,F,N,N,N,11,11,1
+117,Newport News City ,99,F,N,N,Y,13,8,0.615384615
+117,Newport News City ,2,M,N,N,N,10,6,0.6
+117,Newport News City ,3,M,N,N,N,148,92,0.621621622
+117,Newport News City ,3,M,N,N,Y,206,97,0.470873786
+117,Newport News City ,3,M,Y,N,N,15,4,0.266666667
+117,Newport News City ,3,M,Y,N,Y,34,7,0.205882353
+117,Newport News City ,4,M,N,N,N,30,13,0.433333333
+117,Newport News City ,4,M,N,N,Y,27,11,0.407407407
+117,Newport News City ,4,M,N,Y,Y,16,5,0.3125
+117,Newport News City ,5,M,N,N,N,165,95,0.575757576
+117,Newport News City ,5,M,N,N,Y,41,18,0.43902439
+117,Newport News City ,5,M,Y,N,N,12,4,0.333333333
+117,Newport News City ,99,M,N,N,N,10,8,0.8
+118,Norfolk City ,2,F,N,N,N,11,11,1
+118,Norfolk City ,3,F,N,N,N,177,119,0.672316384
+118,Norfolk City ,3,F,N,N,Y,319,187,0.586206897
+118,Norfolk City ,3,F,Y,N,Y,15,7,0.466666667
+118,Norfolk City ,4,F,N,N,N,22,15,0.681818182
+118,Norfolk City ,4,F,N,N,Y,15,8,0.533333333
+118,Norfolk City ,5,F,N,N,N,145,106,0.731034483
+118,Norfolk City ,5,F,N,N,Y,31,15,0.483870968
+118,Norfolk City ,99,F,N,N,N,22,16,0.727272727
+118,Norfolk City ,99,F,N,N,Y,22,9,0.409090909
+118,Norfolk City ,2,M,N,N,N,14,10,0.714285714
+118,Norfolk City ,3,M,N,N,N,174,95,0.545977011
+118,Norfolk City ,3,M,N,N,Y,224,100,0.446428571
+118,Norfolk City ,3,M,Y,N,N,11,7,0.636363636
+118,Norfolk City ,3,M,Y,N,Y,19,7,0.368421053
+118,Norfolk City ,4,M,N,N,N,23,13,0.565217391
+118,Norfolk City ,4,M,N,N,Y,12,7,0.583333333
+118,Norfolk City ,5,M,N,N,N,150,80,0.533333333
+118,Norfolk City ,5,M,N,N,Y,24,8,0.333333333
+118,Norfolk City ,99,M,N,N,N,21,11,0.523809524
+118,Norfolk City ,99,M,N,N,Y,13,6,0.461538462
+119,Norton City ,5,F,N,N,Y,10,6,0.6
+119,Norton City ,5,M,N,N,N,14,12,0.857142857
+119,Norton City ,5,M,N,N,Y,14,8,0.571428571
+120,Petersburg City ,3,F,N,N,N,51,35,0.68627451
+120,Petersburg City ,3,F,N,N,Y,43,29,0.674418605
+120,Petersburg City ,3,M,N,N,N,50,28,0.56
+120,Petersburg City ,3,M,N,N,Y,34,11,0.323529412
+121,Portsmouth City ,3,F,N,N,N,153,92,0.60130719
+121,Portsmouth City ,3,F,N,N,Y,191,103,0.539267016
+121,Portsmouth City ,3,F,Y,N,Y,10,3,0.3
+121,Portsmouth City ,5,F,N,N,N,46,26,0.565217391
+121,Portsmouth City ,5,F,N,N,Y,19,11,0.578947368
+121,Portsmouth City ,99,F,N,N,N,12,7,0.583333333
+121,Portsmouth City ,99,F,N,N,Y,15,8,0.533333333
+121,Portsmouth City ,3,M,N,N,N,122,55,0.450819672
+121,Portsmouth City ,3,M,N,N,Y,125,59,0.472
+121,Portsmouth City ,3,M,Y,N,N,12,5,0.416666667
+121,Portsmouth City ,3,M,Y,N,Y,16,2,0.125
+121,Portsmouth City ,5,M,N,N,N,71,32,0.450704225
+122,Radford City ,5,F,N,N,N,28,24,0.857142857
+122,Radford City ,5,F,N,N,Y,11,8,0.727272727
+122,Radford City ,5,M,N,N,N,31,25,0.806451613
+123,Richmond City ,3,F,N,N,N,95,66,0.694736842
+123,Richmond City ,3,F,N,N,Y,353,195,0.552407932
+123,Richmond City ,3,F,Y,N,Y,36,14,0.388888889
+123,Richmond City ,4,F,N,N,Y,11,5,0.454545455
+123,Richmond City ,5,F,N,N,N,45,36,0.8
+123,Richmond City ,5,F,N,N,Y,10,6,0.6
+123,Richmond City ,3,M,N,N,N,94,47,0.5
+123,Richmond City ,3,M,N,N,Y,225,90,0.4
+123,Richmond City ,3,M,Y,N,N,18,11,0.611111111
+123,Richmond City ,3,M,Y,N,Y,53,12,0.226415094
+123,Richmond City ,5,M,N,N,N,32,24,0.75
+123,Richmond City ,5,M,N,N,Y,10,5,0.5
+124,Roanoke City ,3,F,N,N,N,82,57,0.695121951
+124,Roanoke City ,3,F,N,N,Y,83,38,0.457831325
+124,Roanoke City ,5,F,N,N,N,86,65,0.755813953
+124,Roanoke City ,5,F,N,N,Y,41,21,0.512195122
+124,Roanoke City ,99,F,N,N,Y,11,7,0.636363636
+124,Roanoke City ,3,M,N,N,N,69,35,0.507246377
+124,Roanoke City ,3,M,N,N,Y,73,25,0.342465753
+124,Roanoke City ,5,M,N,N,N,77,50,0.649350649
+124,Roanoke City ,5,M,N,N,Y,38,12,0.315789474
+126,Staunton City ,5,F,N,N,N,52,40,0.769230769
+126,Staunton City ,5,F,N,N,Y,16,7,0.4375
+126,Staunton City ,3,M,N,N,Y,10,4,0.4
+126,Staunton City ,5,M,N,N,N,42,27,0.642857143
+127,Suffolk City ,3,F,N,N,N,144,104,0.722222222
+127,Suffolk City ,3,F,N,N,Y,117,72,0.615384615
+127,Suffolk City ,4,F,N,N,N,18,13,0.722222222
+127,Suffolk City ,5,F,N,N,N,115,85,0.739130435
+127,Suffolk City ,5,F,N,N,Y,12,6,0.5
+127,Suffolk City ,99,F,N,N,N,11,9,0.818181818
+127,Suffolk City ,3,M,N,N,N,144,80,0.555555556
+127,Suffolk City ,3,M,N,N,Y,73,36,0.493150685
+127,Suffolk City ,3,M,Y,N,N,12,9,0.75
+127,Suffolk City ,3,M,Y,N,Y,11,7,0.636363636
+127,Suffolk City ,4,M,N,N,N,11,9,0.818181818
+127,Suffolk City ,5,M,N,N,N,132,73,0.553030303
+127,Suffolk City ,5,M,N,N,Y,11,4,0.363636364
+127,Suffolk City ,99,M,N,N,N,12,8,0.666666667
+128,Virginia Beach City ,2,F,N,N,N,123,107,0.869918699
+128,Virginia Beach City ,2,F,N,N,Y,36,33,0.916666667
+128,Virginia Beach City ,2,F,N,Y,Y,13,9,0.692307692
+128,Virginia Beach City ,3,F,N,N,N,234,171,0.730769231
+128,Virginia Beach City ,3,F,N,N,Y,286,176,0.615384615
+128,Virginia Beach City ,3,F,Y,N,N,11,4,0.363636364
+128,Virginia Beach City ,3,F,Y,N,Y,21,11,0.523809524
+128,Virginia Beach City ,4,F,N,N,N,130,103,0.792307692
+128,Virginia Beach City ,4,F,N,N,Y,73,44,0.602739726
+128,Virginia Beach City ,5,F,N,N,N,1001,825,0.824175824
+128,Virginia Beach City ,5,F,N,N,Y,153,112,0.732026144
+128,Virginia Beach City ,5,F,Y,N,N,30,15,0.5
+128,Virginia Beach City ,5,F,Y,N,Y,10,2,0.2
+128,Virginia Beach City ,99,F,N,N,N,116,77,0.663793103
+128,Virginia Beach City ,99,F,N,N,Y,60,43,0.716666667
+128,Virginia Beach City ,2,M,N,N,N,93,69,0.741935484
+128,Virginia Beach City ,2,M,N,Y,N,13,7,0.538461538
+128,Virginia Beach City ,2,M,N,N,Y,16,8,0.5
+128,Virginia Beach City ,2,M,N,Y,Y,11,6,0.545454545
+128,Virginia Beach City ,3,M,N,N,N,242,135,0.55785124
+128,Virginia Beach City ,3,M,N,N,Y,240,123,0.5125
+128,Virginia Beach City ,3,M,Y,N,N,17,10,0.588235294
+128,Virginia Beach City ,3,M,Y,N,Y,44,13,0.295454545
+128,Virginia Beach City ,4,M,N,N,N,114,73,0.640350877
+128,Virginia Beach City ,4,M,N,N,Y,65,42,0.646153846
+128,Virginia Beach City ,5,M,N,N,N,998,718,0.719438878
+128,Virginia Beach City ,5,M,N,N,Y,150,70,0.466666667
+128,Virginia Beach City ,5,M,Y,N,N,69,29,0.420289855
+128,Virginia Beach City ,5,M,Y,N,Y,29,3,0.103448276
+128,Virginia Beach City ,99,M,N,N,N,112,80,0.714285714
+128,Virginia Beach City ,99,M,N,N,Y,50,26,0.52
+130,Waynesboro City ,3,F,N,N,Y,10,4,0.4
+130,Waynesboro City ,5,F,N,N,N,49,33,0.673469388
+130,Waynesboro City ,5,F,N,N,Y,14,7,0.5
+130,Waynesboro City ,5,M,N,N,N,40,29,0.725
+130,Waynesboro City ,5,M,N,N,Y,14,4,0.285714286
+131,Williamsburg-James City County ,3,F,N,N,N,26,23,0.884615385
+131,Williamsburg-James City County ,3,F,N,N,Y,31,16,0.516129032
+131,Williamsburg-James City County ,4,F,N,N,N,20,16,0.8
+131,Williamsburg-James City County ,5,F,N,N,N,232,193,0.831896552
+131,Williamsburg-James City County ,5,F,N,N,Y,25,18,0.72
+131,Williamsburg-James City County ,5,F,Y,N,N,11,6,0.545454545
+131,Williamsburg-James City County ,99,F,N,N,N,14,14,1
+131,Williamsburg-James City County ,99,F,N,N,Y,10,8,0.8
+131,Williamsburg-James City County ,3,M,N,N,N,21,12,0.571428571
+131,Williamsburg-James City County ,3,M,N,N,Y,29,11,0.379310345
+131,Williamsburg-James City County ,3,M,Y,N,Y,11,2,0.181818182
+131,Williamsburg-James City County ,4,M,N,N,N,12,9,0.75
+131,Williamsburg-James City County ,5,M,N,N,N,235,173,0.736170213
+131,Williamsburg-James City County ,5,M,N,N,Y,26,14,0.538461538
+131,Williamsburg-James City County ,5,M,Y,N,N,25,11,0.44
+131,Williamsburg-James City County ,99,M,N,N,N,17,13,0.764705882
+132,Winchester City ,5,F,N,N,N,58,50,0.862068966
+132,Winchester City ,99,F,N,N,N,16,8,0.5
+132,Winchester City ,4,M,N,N,N,13,3,0.230769231
+132,Winchester City ,4,M,N,Y,N,10,2,0.2
+132,Winchester City ,5,M,N,N,N,53,39,0.735849057
+132,Winchester City ,99,M,N,N,N,13,6,0.461538462
+135,Franklin City ,3,F,N,N,Y,17,10,0.588235294
+135,Franklin City ,3,M,N,N,N,13,8,0.615384615
+136,Chesapeake City ,2,F,N,N,N,27,26,0.962962963
+136,Chesapeake City ,3,F,N,N,N,237,191,0.805907173
+136,Chesapeake City ,3,F,N,N,Y,230,153,0.665217391
+136,Chesapeake City ,3,F,Y,N,Y,15,7,0.466666667
+136,Chesapeake City ,4,F,N,N,N,63,53,0.841269841
+136,Chesapeake City ,4,F,N,N,Y,27,14,0.518518519
+136,Chesapeake City ,5,F,N,N,N,590,478,0.810169492
+136,Chesapeake City ,5,F,N,N,Y,66,38,0.575757576
+136,Chesapeake City ,5,F,Y,N,N,28,21,0.75
+136,Chesapeake City ,5,F,Y,N,Y,12,4,0.333333333
+136,Chesapeake City ,99,F,N,N,N,60,44,0.733333333
+136,Chesapeake City ,99,F,N,N,Y,23,14,0.608695652
+136,Chesapeake City ,2,M,N,N,N,33,23,0.696969697
+136,Chesapeake City ,3,M,N,N,N,171,118,0.69005848
+136,Chesapeake City ,3,M,N,N,Y,169,85,0.50295858
+136,Chesapeake City ,3,M,Y,N,N,23,13,0.565217391
+136,Chesapeake City ,3,M,Y,N,Y,31,14,0.451612903
+136,Chesapeake City ,4,M,N,N,N,57,35,0.614035088
+136,Chesapeake City ,4,M,N,N,Y,19,11,0.578947368
+136,Chesapeake City ,5,M,N,N,N,621,436,0.702093398
+136,Chesapeake City ,5,M,N,N,Y,72,37,0.513888889
+136,Chesapeake City ,5,M,Y,N,N,59,31,0.525423729
+136,Chesapeake City ,5,M,Y,N,Y,12,4,0.333333333
+136,Chesapeake City ,99,M,N,N,N,68,50,0.735294118
+139,Salem City ,5,F,N,N,N,85,68,0.8
+139,Salem City ,5,M,N,N,N,93,72,0.774193548
+142,Poquoson City ,5,F,N,N,N,66,58,0.878787879
+142,Poquoson City ,5,M,N,N,N,78,57,0.730769231
+143,Manassas City ,3,F,N,N,N,21,19,0.904761905
+143,Manassas City ,3,F,N,N,Y,10,7,0.7
+143,Manassas City ,4,F,N,N,N,29,21,0.724137931
+143,Manassas City ,4,F,N,N,Y,26,18,0.692307692
+143,Manassas City ,4,F,N,Y,Y,32,9,0.28125
+143,Manassas City ,5,F,N,N,N,56,40,0.714285714
+143,Manassas City ,99,F,N,N,N,10,9,0.9
+143,Manassas City ,3,M,N,N,N,19,10,0.526315789
+143,Manassas City ,4,M,N,N,N,26,13,0.5
+143,Manassas City ,4,M,N,Y,N,12,3,0.25
+143,Manassas City ,4,M,N,N,Y,19,6,0.315789474
+143,Manassas City ,4,M,N,Y,Y,26,4,0.153846154
+143,Manassas City ,5,M,N,N,N,48,30,0.625
+144,Manassas Park City ,4,F,N,N,N,16,10,0.625
+144,Manassas Park City ,4,F,N,N,Y,16,11,0.6875
+144,Manassas Park City ,4,F,N,Y,Y,18,6,0.333333333
+144,Manassas Park City ,5,F,N,N,N,17,15,0.882352941
+144,Manassas Park City ,2,M,N,N,N,10,8,0.8
+144,Manassas Park City ,4,M,N,N,Y,13,10,0.769230769
+144,Manassas Park City ,4,M,N,Y,Y,13,5,0.384615385
+144,Manassas Park City ,5,M,N,N,N,24,16,0.666666667
+207,West Point ,5,F,N,N,N,14,10,0.714285714
+207,West Point ,5,M,N,N,N,18,11,0.611111111
